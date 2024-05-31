@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aapod\\source\\repos\\CountingValleys\\Recursion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3B3A6A-BBEE-4837-BB53-0D66B3113034}|Recursion\\Recursion.csproj|c:\\users\\aapod\\source\\repos\\countingvalleys\\recursion\\recursion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3B3A6A-BBEE-4837-BB53-0D66B3113034}|Recursion\\Recursion.csproj|solutionrelative:recursion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aapod\\source\\repos\\CountingValleys\\Recursion\\Recursion\\Program.cs",
+              "RelativeDocumentMoniker": "Recursion\\Program.cs",
+              "ToolTip": "C:\\Users\\aapod\\source\\repos\\CountingValleys\\Recursion\\Recursion\\Program.cs",
+              "RelativeToolTip": "Recursion\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:19:48.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
