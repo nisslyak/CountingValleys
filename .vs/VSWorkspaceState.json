@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Recursion",
+    "\\Recursion\\Recursion",
     "\\Solution",
     "\\Solution\\Solution"
   ],
-  "SelectedNode": "\\Solution\\Solution\\Program.cs",
+  "SelectedNode": "\\Recursion\\Recursion\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
