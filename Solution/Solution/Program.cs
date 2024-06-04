@@ -15,7 +15,6 @@ using System.Numerics;
 
 class Result
 {
-
     public static int countingValleys(int steps, string path)
     {
 
@@ -40,8 +39,6 @@ class Result
         return count;
     }
 }
-
-
 class Solution
 {
     public static void Main(string[] args)
